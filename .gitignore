@@ -1,0 +1,8 @@
+dist
+node_modules
+*.local
+.env.local
+.idea
+.DS_Store
+.code
+.env
